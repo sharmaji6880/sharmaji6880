@@ -1,7 +1,14 @@
 <h1 align="center"> Hi there 👋, I'm Raghav Sharma </h1>
 
-- 🌱 I’m currently learning about Machine Learning
-- 💬 Ask me about Data Structures & Algorithms
+
+## 🚀 About Me
+I am a fullstack developer 
+
+I am currently learning about Machine learning
+
+I am into Data Structures & Algorithms
+
+
 - 📫 How to reach me: rs2092002@gmail.com
 - ⚡ Fun fact: I love Football 
 

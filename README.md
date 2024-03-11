@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about Machine Learning
 - 💬 Ask me about Data Structures & Algorithms
-- 📫 How to reach me: [rs2092002@gmail.com](rs2092002@gmail.com)
+- 📫 How to reach me: rs2092002@gmail.com
 - ⚡ Fun fact: I love Football 
 
 <!--

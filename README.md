@@ -8,7 +8,7 @@ I am into Data Structures & Algorithms. <br>
 
 
 ## 🔗 Socials
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/raghav-sharma-445249232)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-445249232)
 
 
 

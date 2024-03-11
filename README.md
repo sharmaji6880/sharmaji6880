@@ -3,9 +3,7 @@
 
 ## 🚀 About Me
 I am a fullstack developer 
-
 I am currently learning about Machine learning
-
 I am into Data Structures & Algorithms
 
 

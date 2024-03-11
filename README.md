@@ -2,9 +2,9 @@
 
 
 ## 🚀 About Me
-I am a fullstack developer <br>
-I am currently learning about Machine learning <br>
-I am into Data Structures & Algorithms <br>
+I am a fullstack developer. <br>
+I am currently learning about Machine learning. <br>
+I am into Data Structures & Algorithms. <br>
 
 
 - 📫 How to reach me: rs2092002@gmail.com

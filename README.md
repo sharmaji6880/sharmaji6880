@@ -12,6 +12,6 @@ I am into Data Structures & Algorithms. <br>
 
 
 
-📫 How to reach me: rs2092002@gmail.com
+📫 How to reach me: rs2092002@gmail.com <br>
 ⚡ Fun fact: I love Football 
 

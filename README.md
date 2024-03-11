@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋, I'm Raghav Sharma </h1>
 
 - 🌱 I’m currently learning about Machine Learning
 - 💬 Ask me about Data Structures & Algorithms

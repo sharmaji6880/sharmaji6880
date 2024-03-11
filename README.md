@@ -1,4 +1,4 @@
-<h1> Hi there 👋 </h1>
+<h1 text-align="center"> Hi there 👋 </h1>
 - 🌱 I’m currently learning about Machine Learning
 - 💬 Ask me about Data Structures & Algorithms
 - 📫 How to reach me: rs2092002@gmail.com

@@ -2,9 +2,9 @@
 
 
 ## 🚀 About Me
-I am a fullstack developer. <br>
-I am currently learning about Machine learning. <br>
-I am into Data Structures & Algorithms. <br>
+I am currently working as an Associate Consultant at Oracle Financial Services Software,Pune. <br>
+I am into Full stack. <br>
+Talk to me about Data Structures & Algorithms. <br>
 
 
 ## 🔗 Socials
